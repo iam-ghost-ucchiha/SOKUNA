@@ -13,7 +13,7 @@ module.exports.config = {
 module.exports.languages = {
     "en": {
         "listAdmin": 'operators : \n\n%1',
-        "notHavePermssion": 'you have no permission to use "%1"',
+        "notHavePermssion": '𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚗𝚘 𝚙𝚎𝚛𝚖𝚒𝚜𝚜𝚒𝚘𝚗 𝚝𝚘 𝚞𝚜𝚎 "%1"',
         "addedNewAdmin": 'added %1 operator :\n\n%2',
         "removedAdmin": 'remove %1 operator :\n\n%2'
     }
